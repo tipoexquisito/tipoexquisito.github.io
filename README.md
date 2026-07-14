@@ -1,3 +1,12 @@
+---
+layout: default
+title: Filipe Gama
+---
+
+# [Filipe Gama](https://tipoexquisito.github.io/)
+
+[View My GitHub Profile](https://github.com/tipoexquisito)
+
 # Filipe Gama
 
 **Educator · Learning Experience Designer**  
@@ -14,7 +23,7 @@ My background spans vocational education, audiovisual production, digital commun
 
 ---
 
-## Featured project
+## Projects worth knowing about
 
 ### Transforma-te, Transforma · Arco Maior, 2024–25
 
@@ -22,8 +31,8 @@ A group of teenagers in a non-formal education programme for young people at ris
 
 What followed was a two-month interdisciplinary project spanning 11 subject areas: research, scriptwriting, set design, carpentry, budgeting, filming, editing and publishing. Three products. Three platforms. Three real audiences.
 
-- [Pilot episode](https://www.arcomaior.pt/noticias/post.php?p=80) — published on the Arco Maior website  
-- [Teaser](https://www.instagram.com/reels/DLhcz7eo7rj) — produced entirely by students, without teacher intervention, in a single morning  
+- [Pilot episode](https://www.arcomaior.pt/noticias/post.php?p=80) — published on the Arco Maior website
+- [Teaser](https://www.instagram.com/reels/DLhcz7eo7rj) — produced entirely by students, without teacher intervention, in a single morning
 - [Episode 2](https://www.youtube.com/watch?v=JohIP_uas9s) — interview with Prof. Joaquim Azevedo on education and the future
 
 Assessed against the 21CLD framework: level 5/5 across all six dimensions.
@@ -34,14 +43,20 @@ The most significant indicator is not the products. It is the trajectory. From a
 
 ## Current work
 
-### [Footscapes](https://tipoexquisito.github.io/footscapes) *(in progress)*
+### [Footscapes](https://tipoexquisito.github.io/footscapes)
+
 A digital garden documenting an Erasmus+ KA1 mobility in Madrid, May 2026.  
 Frameworks, field notes and cultural reflections on active methodologies, cooperative learning, CLIL and place-based learning.
 
-### [Disposable Camera — Zapping](https://tipoexquisito.github.io/zapping-cam/app.html)
-A mobile-first web app simulating a disposable analogue camera for educational use.  
-Built for a visit to *Zapping: Televisão como Cultura e Contracultura* at Centro de Arte Oliva.  
-Used with 11th-grade students as a Context4Content activity connecting neuromarketing theory to art experience.
+### [Fiat Humanitas](https://readymag.website/u1118328419/fiat-humanitas/)
+
+A visual essay on art, memory and the meaning of education — anchored in Goya, Guernica and Guernica-Gaza.  
+Dissemination output of the Erasmus+ KA1 mobility.
+
+### [Fiat Corde](https://tipoexquisito.github.io/fiat-corde/)
+
+A 10-minute scripted talk delivered at an internal pedagogical conference, documenting how the Erasmus+ KA1 experience was brought back to the classroom — from Madrid's streets to a museum visit with 11th-grade students using the Context4Content methodology.  
+The title comes from Fritz Lang's Metropolis: *"The mediator between the head and the hands must be the heart."*
 
 ---
 
@@ -49,18 +64,29 @@ Used with 11th-grade students as a Context4Content activity connecting neuromark
 
 - 20+ years in education, design and audiovisual production
 - Vocational education: design, communication, digital media, marketing, tourism,
-  youth work, psychosocial support and sociocultural animation
+youth work, psychosocial support and sociocultural animation
 - Non-formal education: PIEF programme, competency-based learning,
-  CASEL/SEL frameworks
+CASEL/SEL frameworks
+- Corporate: post-production operations and team coordination at Farfetch (60-person team),
+training pathway design, KPI tracking, Kaizen continuous improvement
+- BA in Communication Design, ESAD Matosinhos (2008) · 1st cycle of Master's in
+Multimedia (Education), FEUP Porto (incomplete)
 
 **Recent training**
-- Erasmus+ KA1 · Innovative and Active Methodologies for Teaching
-  and Learning · Madrid, May 2026
-- e-/b-Learning Design for Basic and Secondary Education ·
-  Arrifana, May 2026
-- Conflict Mediation in School Contexts · Porto, 2024
-- Digital Portfolios as Formative Assessment Instruments · Porto, 2024
 
+- Erasmus+ KA1 · Innovative and Active Methodologies for Teaching
+and Learning · Madrid, May 2026
+- e-/b-Learning Design for Basic and Secondary Education ·
+Arrifana, May 2026
+- Google Project Management · Google, 2024
+- Conflict Mediation in School Contexts (50h) · Porto, 2024–25
+- Digital Portfolios as Formative Assessment Instruments (30h) · Porto, 2023
+
+---
+
+## Languages
+
+Portuguese (native) · English (C1 reading, B2 spoken) · Spanish (B1)
 
 ---
 
@@ -72,4 +98,6 @@ Learning Experience Design • Instructional Design • Place-Based Learning
 ---
 
 *Transitioning deliberately. Open to conversation.*  
-→ [Email me](mailto:design.filipegama@gmail.com)
+→ [Email me](mailto:design.filipegama@gmail.com) · [LinkedIn](https://linkedin.com/in/filipegama) · [Footscapes](https://tipoexquisito.github.io/footscapes)
+
+Hosted on GitHub Pages — Theme by [orderedlist](https://github.com/orderedlist)
